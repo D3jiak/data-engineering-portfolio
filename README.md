@@ -8,7 +8,7 @@ Computer Science graduate (Manchester Metropolitan University) transitioning int
 ## Projects
 
 ### 📊 Customer Churn Analysis Pipeline *(in progress)*
-Rebuilt a previous analysis project as a proper data pipeline — raw CSV in, cleaned structured data out, loaded into PostgreSQL with a timestamp for each run.
+Rebuilt a previous analysis project as a proper data pipeline - raw CSV in, cleaned structured data out, loaded into PostgreSQL with a timestamp for each run.
 
 **Stack:** Python · pandas · SQLAlchemy · PostgreSQL  
 **Key concepts:** ETL structure, data quality checks, modular functions  
